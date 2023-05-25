@@ -118,4 +118,4 @@ CREATE INDEX "FK1" ON  "JOB_hISTORY" ("Job_id");
 
 CREATE INDEX "FK2" ON  "JOB_hISTORY" ("Departtment_id");
 
--- https://lucid.app/lucidchart/62bc9ad0-a0e6-475f-923d-c72bf06f771e/edit?viewport_loc=-384%2C-35%2C1587%2C649%2CJO6UVPDUIz.4&invitationId=inv_47a87700-3225-4d94-8556-905ed98b6ef2
+
